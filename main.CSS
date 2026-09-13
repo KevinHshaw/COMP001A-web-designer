@@ -1,0 +1,23 @@
+h1,
+h2,
+h3 {
+  color: purple;
+}
+p a {
+  color: red;
+}
+a {
+  text-decoration: underline;
+  color: rgb(255, 187, 0);
+}
+a:hover {
+  background-color: rgba(7, 4, 4, 0.486);
+  color: rgb(248, 207, 25);
+}
+p {
+  color: rgb(255, 10, 10);
+}
+ol ul {
+  background-color: rgb(168, 105, 28);
+  color: #000;
+}
